@@ -2,3 +2,4 @@ streamlit
 pandas
 beautifulsoup4
 requests
+cloudscraper
